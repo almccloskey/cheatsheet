@@ -1,0 +1,65 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: Azure;
+}
+
+h1 {
+  text-align: center;
+  color: Salmon;
+  margin-top: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: normal;
+  color: SlateGray;
+}
+
+table {
+  border: 2px solid SlateGray;
+  width: 500px;
+  margin: auto;
+
+}
+
+th {
+  color: CadetBlue;
+  font-weight: bold;
+  background-color: lightblue;
+}
+
+td {
+	font-weight: normal;
+	border-bottom: 1px solid lightblue;
+}
+
+.description {
+	font-weight: lighter;
+	border-left: 1px dashed lightblue;
+}
+
+.tabletags {
+	float: right;
+	margin-right: 50px;
+	margin-left: 25px;
+}
+
+.htmltags {
+	float: left;
+	margin-right: 25px;
+	margin-left: 50px;
+}
+
+.code {
+	font-family: monospace;
+	background-color: lightsalmon;
+	border: none;
+}
+
+.tablesub {
+	text-align: center;
+	font-weight: normal;
+	font-size: larger;
+	color: slategray;
+
+}
